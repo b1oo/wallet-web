@@ -64,6 +64,9 @@
 > yarn start
 ```
 
+If installation doesn't work try:
+> brew install yarn
+
 The wallet should then be running on [http://localhost:3000](http://localhost:3000)
 
 ## Changing the default API URL
